@@ -1,0 +1,21 @@
+
+* Custom Panels
+[[https://github.com/clembu/custompanels/releases][https://img.shields.io/github/v/release/clembu/custompanels?sort=semver]]
+
+This is a [[https://blender.org][Blender]] addon used to *easily create ui panels* in the 3d viewport.
+
+The features are meant to help blender asset creators and asset users
+leverage the power of custom properties and operators during their workflow
+without having to write any python themselves
+(except to write any new operator of course).
+
+** Installation
+
+The releases are available in github's [[https://github.com/clembu/custompanels/releases][release tab]].
+Unless you know what you are doing, you shouldn't have to unzip the archive.
+
+Installation instructions can be found in the [[https://docs.blender.org/manual/en/latest/editors/preferences/addons.html?highlight=install#installing-add-ons][Blender manual]].
+
+** Instructions
+
+See the addon's usage and information on [[https://clembu.github.io/custompanels/][its site]].
