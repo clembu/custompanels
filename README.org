@@ -1,6 +1,6 @@
 
 * Custom Panels
-[[https://github.com/clembu/custompanels/releases][file:https://img.shields.io/github/v/release/clembu/custompanels?sort=semver]]
+[[https://github.com/clembu/custompanels/releases][file:https://img.shields.io/github/v/release/clembu/custompanels.svg?sort=semver]]
 
 This is a [[https://blender.org][Blender]] addon used to *easily create ui panels* in the 3d viewport.
 
